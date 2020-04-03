@@ -4,7 +4,7 @@ This repository contains the code for CVPR 2020 paper [Neural Architecture Searc
 This paper present a lightweight non-local block and automatically discover state-of-the-art non-local networks for mobile vision.
 
 <div align="center">
-  <img src="teaser.jpg"/>
+  <img src="teaser.png" width="700px" />
 </div>
 
 If you use the code, please cite:
