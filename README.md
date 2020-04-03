@@ -12,7 +12,7 @@ If you use the code, please cite:
     @article{li2020autonl,
     title={Neural Architecture Search for Lightweight Non-local Networks},
     author={Li, Yingwei and Jin, Xiaojie and Mei, Jieru and Lian, Xiaochen and Yang, Linjie and Xie, Cihang and Yu, Qihang and Zhou, Yuyin and Bai, Song and Yuille, Alan},
-    booktitle={In submission},
+    booktitle={CVPR},
     year={2020}
     }
 
