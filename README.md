@@ -26,10 +26,10 @@ Download the [AutoNL-L-77.7.zip](https://livejohnshopkins-my.sharepoint.com/:u:/
 Unzip and place them at the root directory of the source code.
 
 ## Usage
-Download and place the ImageNet validation set at ```$PATH_TO_IMAGENET_VAL```.
+Download and place the ImageNet validation set at ```$PATH_TO_IMAGENET/val```.
 ```bash
-python eval.py --model_dir=AutoNL-S-76.5 --valdir=$PATH_TO_IMAGENET_VAL --arch=AutoNL-S-76.5/arch.txt
-python eval.py --model_dir=AutoNL-L-77.7 --valdir=$PATH_TO_IMAGENET_VAL --arch=AutoNL-L-77.7/arch.txt
+python eval.py --model_dir=AutoNL-S-76.5 --valdir=$PATH_TO_IMAGENET/val --arch=AutoNL-S-76.5/arch.txt
+python eval.py --model_dir=AutoNL-L-77.7 --valdir=$PATH_TO_IMAGENET/val --arch=AutoNL-L-77.7/arch.txt
 ```
 The last printed line should read:
 ```
