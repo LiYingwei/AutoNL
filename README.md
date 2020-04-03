@@ -10,7 +10,7 @@ This paper presents a lightweight non-local block and automatically searched sta
 If you use the code, please cite:
 
     @article{li2020autonl,
-    title={AutoNL: Neural Architecture Search for Lightweight Non-local Networks in Mobile Vision},
+    title={Neural Architecture Search for Lightweight Non-local Networks},
     author={Li, Yingwei and Jin, Xiaojie and Mei, Jieru and Lian, Xiaochen and Yang, Linjie and Xie, Cihang and Yu, Qihang and Zhou, Yuyin and Bai, Song and Yuille, Alan},
     booktitle={In submission},
     year={2020}
