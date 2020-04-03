@@ -18,6 +18,7 @@ If you use the code, please cite:
 
 ## Requirements
 TensorFlow 1.14.0
+
 tensorpack 0.9.8 (for dataset loading)
 
 ## Model Preparation 
