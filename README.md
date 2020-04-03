@@ -1,7 +1,7 @@
 # Neural Architecture Search for Lightweight Non-Local Networks
 
 This repository contains the code for CVPR 2020 paper [Neural Architecture Search for Lightweight Non-Local Networks](https://arxiv.org/abs/2004.xxxxx). 
-This paper present a lightweight non-local block and automatically discover state-of-the-art non-local networks for mobile vision.
+This paper presents a lightweight non-local block and automatically searched state-of-the-art non-local networks for mobile vision.
 
 <div align="center">
   <img src="teaser.png" width="700px" />
