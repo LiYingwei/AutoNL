@@ -9,7 +9,7 @@ This paper presents a lightweight non-local block and automatically searched sta
 
 If you use the code, please cite:
 
-    @inproceedings{li2020autonl,
+    @inproceedings{li2020neural,
     title={Neural Architecture Search for Lightweight Non-local Networks},
     author={Li, Yingwei and Jin, Xiaojie and Mei, Jieru and Lian, Xiaochen and Yang, Linjie and Xie, Cihang and Yu, Qihang and Zhou, Yuyin and Bai, Song and Yuille, Alan},
     booktitle={CVPR},
