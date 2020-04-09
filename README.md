@@ -2,7 +2,7 @@
 
 This repository contains the code for CVPR 2020 paper [Neural Architecture Search for Lightweight Non-Local Networks](https://cs.jhu.edu/~alanlab/Pubs20/li2020neural.pdf). 
 This paper presents a lightweight non-local block and automatically searched state-of-the-art non-local networks for mobile vision. 
-We will also provide pytorch implementation [here](https://github.com/meijieru/yet_another_mobilenet_series).
+We also provide pytorch implementation [here](https://github.com/meijieru/yet_another_mobilenet_series).
 
 <div align="center">
   <img src="teaser.png" width="700px" />
