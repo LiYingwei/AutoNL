@@ -1,5 +1,7 @@
 # Neural Architecture Search for Lightweight Non-Local Networks
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/neural-architecture-search-for-lightweight/neural-architecture-search-on-imagenet)](https://paperswithcode.com/sota/neural-architecture-search-on-imagenet?p=neural-architecture-search-for-lightweight)
+
 This repository contains the code for CVPR 2020 paper [Neural Architecture Search for Lightweight Non-Local Networks](https://cs.jhu.edu/~alanlab/Pubs20/li2020neural.pdf). 
 This paper presents a lightweight non-local block and automatically searched state-of-the-art non-local networks for mobile vision. 
 We also provide pytorch implementation [here](https://github.com/meijieru/yet_another_mobilenet_series).
